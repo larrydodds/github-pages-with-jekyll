@@ -1,6 +1,7 @@
 title: Senor
 author: LD
 email: email@address.tld
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This isn't an awesome description for my new site.
 
